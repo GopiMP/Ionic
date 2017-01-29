@@ -1,0 +1,46 @@
+/* Empty. Add your own CSS if you like */
+.getStartedbtn {
+    border-radius: 30px;
+    width: 200px;
+    border-color: white;
+    /*background-color: #006199; */
+
+
+
+}
+.doubleColorBtn {
+   
+   
+    background: -webkit-linear-gradient(-90deg, #006199, #7595a7) !important;
+   
+    
+    background: -o-linear-gradient(-90deg, #006199, #7595a7)!important;
+   
+    
+    background: -moz-linear-gradient(-90deg, #006199, #7595a7)!important;
+  
+    
+    background: linear-gradient(-90deg, #006199, #7595a7)!important;
+   
+  
+}
+
+.txtcolor{
+	color: white;
+}
+ .button.button-addcard {
+            border-color: transparent;
+            background-color: #006199;
+            color: #000000; }
+       
+            .button.button-gold.active, {
+              background-color:#006199; }
+
+
+
+
+/*.center{
+	text-align: center;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: bold;
+}*/
